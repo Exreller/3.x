@@ -6,7 +6,8 @@ namespace _3.x
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("intmin {0}", int.MinValue);
+            Console.WriteLine("intmax {0}", int.MaxValue);
         }
     }
 }
