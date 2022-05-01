@@ -6,7 +6,9 @@ namespace _3.x
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string myName = ("Nikolay");
+            Console.WriteLine(myName);
+            Console.ReadKey();
         }
     }
 }
