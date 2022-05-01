@@ -6,7 +6,7 @@ namespace _3.x
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Привет,\n мир!");
         }
     }
 }
