@@ -6,7 +6,9 @@ namespace _3.x
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            byte MyAge = 33;
+            Console.WriteLine($"Мой возраст {MyAge}");
+
         }
     }
 }
