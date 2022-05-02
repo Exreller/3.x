@@ -6,7 +6,20 @@ namespace _3.x
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+         
+
+       
         }
+
+        enum Semaphore 
+        {
+            Red = 100, 
+            Yellow = 200, 
+            Green = 300
+
+        }
+
+
     }
+
 }
